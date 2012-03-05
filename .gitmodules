@@ -154,3 +154,9 @@
 [submodule "bundle/vim-capybara"]
 	path = bundle/vim-capybara
 	url = git://github.com/asux/vim-capybara.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/vim-bufexplorer"]
+	path = bundle/vim-bufexplorer
+	url = https://github.com/thisivan/vim-bufexplorer.git
